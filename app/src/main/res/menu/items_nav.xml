@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_crop_home"
+        android:title="@string/home"
+        />
+    <item
+
+        android:id="@+id/cur_order_sta"
+        android:icon="@drawable/ic_baseline_current_order"
+        android:title="@string/current_order_status" />
+    <item
+
+        android:id="@+id/ship_addr"
+        android:icon="@drawable/ic_baseline_local_shipping_24"
+        android:title="@string/shipping_address" />
+    <item
+
+        android:id="@+id/or_history"
+        android:icon="@drawable/ic_baseline_order_history"
+        android:title="@string/order_history" />
+    <item
+
+        android:id="@+id/change_card"
+        android:icon="@drawable/ic_baseline_changecard"
+        android:title="@string/change_card"
+
+        />
+    <item
+
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_profile"
+        android:title="@string/profile" />
+    <item
+
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_logout"
+        android:title="@string/logout"
+
+        />
+
+
+</menu>

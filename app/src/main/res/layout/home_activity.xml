@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/teal_200"
+    android:orientation="horizontal">
+
+
+    <androidx.drawerlayout.widget.DrawerLayout
+
+        android:id="@+id/Drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        tools:context=".activities.HomeActivity"
+        tools:openDrawer="start">
+
+        <include
+            layout="@layout/tool_bar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+        </include>
+
+
+        <com.google.android.material.navigation.NavigationView
+
+
+            android:id="@+id/navigaton_view"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="@color/teal_200"
+            android:fitsSystemWindows="true"
+            app:headerLayout="@layout/header_lay"
+            app:itemIconPadding="10dp"
+            app:itemIconSize="28dp"
+            app:itemIconTint="@color/white"
+            app:itemTextColor="@color/white"
+            app:itemVerticalPadding="2dp"
+            app:menu="@menu/items_nav">
+
+
+        </com.google.android.material.navigation.NavigationView>
+
+
+    </androidx.drawerlayout.widget.DrawerLayout>
+
+</LinearLayout>
+

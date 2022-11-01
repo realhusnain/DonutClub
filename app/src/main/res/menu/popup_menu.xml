@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/new_post"
+        android:title="New Post"
+        />
+
+    <item
+        android:id="@+id/my_post"
+        android:title="My Posts"
+        />
+    <item
+        android:id="@+id/all_post"
+        android:title="All Posts"
+
+        />
+    <item
+        android:id="@+id/Cancel"
+        android:title="Cancel"/>
+
+
+</menu>

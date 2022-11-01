@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="tool_bar" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/teal_200</item>
+        <item name="android:textColorSecondary">@color/white</item>
+
+
+<!--        <style name="ThemeOverlay.MyPopupTheme" parent="Theme.AppCompat.Light">-->
+<!--            <item name="android:textColor">@color/teal_200</item>-->
+<!--        </style>-->
+
+
+    </style>
+</resources>

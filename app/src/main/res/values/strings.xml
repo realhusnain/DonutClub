@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Sign-In Screen</string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+    <string name="Get">Get</string>
+    <string name="YourCreation">Your Creation</string>
+    <string name="atYour">at Your</string>
+    <string name="Doorstep">Doorstep</string>
+    <string name="forget_password"> <u>Forget Password?</u></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="ifyouhaveaccount">If you have an account? <u>  <font color='#FF03DAC5'> Sign In here </font> </u> </string>
+    <string name="get_nyour_creation_nat_your_ndoorstep">Get \nYour Creation \nat Your \nDoorstep</string>
+    <string name="Full_name">Full name</string>
+    <string name="Confirm_password">Confirm Password</string>
+    <string name="Comfirm_password">Confirm Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="didn_t_have_any_account_sign_up_here">Didn\'t have any account?  <u><font color='#FF03DAC5'>Sign up here </font> </u> </string>
+    <string name="home">Home</string>
+    <string name="order_history">Order History</string>
+    <string name="current_order_status">Current Order Status</string>
+    <string name="shipping_address">Shipping Address</string>
+    <string name="change_card">Change Card</string>
+    <string name="profile">PROFILE</string>
+    <string name="logout">LOGOUT</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="glaxy_donut_club">Glaxy Donut Club</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Iam_home_fragment">Home Fragment</string>
+    <string name="Iam_chat_fragment">Chats</string>
+    <string name="Blog_fragment">Blog Posts</string>
+    <string name="person_fragment">Person Fragment</string>
+    <string name="search">Search</string>
+    <string name="alex_jones">Alex Jones</string>
+    <string name="todo">TODO</string>
+    <string name="today_12_26">Today,12:26</string>
+    <string name="sure_i_ll_pick_you_up">Sure,I\'ll pick you up:)</string>
+
+
+</resources>

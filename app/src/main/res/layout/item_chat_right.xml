@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/input"
+        android:backgroundTint="#0BCCB9"
+        android:gravity="right"
+        android:layout_marginTop="10dp"
+        android:paddingStart="10dp"
+        android:paddingTop="5dp"
+        android:paddingEnd="5dp"
+        android:paddingBottom="5dp"
+        android:text="Hello how are you \n
+               12:12 pm
+ "
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</RelativeLayout>
